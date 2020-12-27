@@ -15,3 +15,4 @@ for i in char:
     a.append(newC)
 msg = ''.join(a)
 print(msg)
+print("New Commit")
