@@ -1,5 +1,5 @@
 #!/bin/python3
-
+#edited for GIT
 alph = 'abcdefghijklmnopqrstuvwxyz'
 a = []
 char = input('Please enter a character: ')
